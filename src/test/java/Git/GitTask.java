@@ -10,9 +10,6 @@ public class GitTask {
 	}public void Classc() {
 		System.out.println("TestNG");
 
-	}
-	private void classD() {
-		System.out.println("POM");
 
 	}
 	
